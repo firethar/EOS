@@ -1,6 +1,6 @@
 
-@font-face {
-    font-family: 'Madera';
+/* @font-face {
+    font-family: 'Merriweather Sans', sans-serif;
     src: url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Bold.eot?#iefix') format('embedded-opentype'),  
         url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Bold.otf')  format('opentype'),
         url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Bold.woff') format('woff'), 
@@ -10,7 +10,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'Madera';
+    font-family: 'Merriweather Sans', sans-serif;
     src: url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Light.eot?#iefix') format('embedded-opentype'),  
         url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Light.otf')  format('opentype'),
         url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Light.woff') format('woff'), 
@@ -20,7 +20,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'Madera';
+    font-family: 'Merriweather Sans', sans-serif;
     src: url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Regular.eot?#iefix') format('embedded-opentype'),  
         url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Regular.otf')  format('opentype'),
         url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Regular.woff') format('woff'), 
@@ -30,7 +30,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'Madera';
+    font-family: 'Merriweather Sans', sans-serif;
     src: url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Italic.eot?#iefix') format('embedded-opentype'),  
         url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Italic.otf')  format('opentype'),
         url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Italic.woff') format('woff'), 
@@ -38,7 +38,9 @@
         url('https://www.ros.net.pl/Portals/0/rich-content/EOS/832992018738/fonts/Madera-Italic.svg#Madera-Italic') format('svg');
     font-weight: normal;
     font-style: italic;
-}
+} */
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans&display=swap');
 
 #egp_eos2_main {
     max-width: 930px;
@@ -65,7 +67,7 @@
 #egp_eos2_main p,
 #egp_eos2_main li,
 #egp_eos2_main span {
-    font-family: 'Madera';
+    font-family: 'Merriweather Sans', sans-serif;
     /* color: #595959; */
 }
 
@@ -88,7 +90,7 @@
     margin: 0 auto;
     width: 100%;
     display: flex;
-    font-family: 'Madera';
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 
